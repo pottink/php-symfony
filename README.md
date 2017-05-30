@@ -1,7 +1,7 @@
-PHP image for pimcore
+PHP image for Symfony
 =====================
 
-PHP container for pimcore applications. Pimcore is not installed in the Image.
+PHP container for symfony applications. Symfony is not installed in the Image.
 
 Versions
 --------
