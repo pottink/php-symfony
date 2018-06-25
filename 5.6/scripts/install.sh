@@ -11,3 +11,6 @@ extensions -i bcmath bz2 gd imagick intl json mbstring mcrypt mysql redis \
 apt-get clean -y
 
 rm -rf /usr/share/man/man1/
+
+# update permissions to allow rootless operation
+/usr/local/bin/permissions
